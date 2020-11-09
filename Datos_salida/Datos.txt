@@ -1,0 +1,1 @@
+La carpeta contiene los datos de salida de los archivos de lectura para los "Datos Oficiales" y los de "Blind Test"
